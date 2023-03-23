@@ -3,10 +3,10 @@
 
 注：因报纸件损坏、失真等原因而导致的无法识别的字体本表统一用“\*”表示
 
-<table width="3072.67" border="0" cellpadding="0" cellspacing="0" style="width:1843.60pt;border-collapse:collapse;table-layout:fixed;align:center;">
+<table width="3072.67" border="1" cellpadding="0" cellspacing="0" align="center" style="width:1843.60pt;border-collapse:collapse;table-layout:fixed;text-align:center;">
    <colgroup><col width="302.17" class="xl65" style="mso-width-source:userset;mso-width-alt:10970;text-align:center;">
    <col width="482.17" class="xl66" style="mso-width-source:userset;mso-width-alt:10970;text-align:center;">
-   <col width="1045" class="xl65" style="mso-width-source:userset;mso-width-alt:23775;text-align:center;">
+   <col width="1145" class="xl65" style="mso-width-source:userset;mso-width-alt:23775;text-align:center;">
    <col width="258.50" class="xl65" style="mso-width-source:userset;mso-width-alt:5881;text-align:center;">
    <col width="551.83" class="xl65" style="mso-width-source:userset;mso-width-alt:12555;text-align:center;">
    <col width="253" class="xl65" style="mso-width-source:userset;mso-width-alt:5756;text-align:center;">
