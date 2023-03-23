@@ -3,14 +3,14 @@
 
 注：因报纸件损坏、失真等原因而导致的无法识别的字体本表统一用“\*”表示
 
-<table width="3072.67" border="0" cellpadding="0" cellspacing="0" style="width:1843.60pt;border-collapse:collapse;table-layout:fixed;text-align:center">
-   <colgroup><col width="482.17" class="xl65" style="mso-width-source:userset;mso-width-alt:10970;">
-   <col width="482.17" class="xl66" style="mso-width-source:userset;mso-width-alt:10970;">
-   <col width="1045" class="xl65" style="mso-width-source:userset;mso-width-alt:23775;">
-   <col width="258.50" class="xl65" style="mso-width-source:userset;mso-width-alt:5881;">
-   <col width="551.83" class="xl65" style="mso-width-source:userset;mso-width-alt:12555;">
-   <col width="253" class="xl65" style="mso-width-source:userset;mso-width-alt:5756;">
-   <col width="121" span="16378" class="xl67" style="mso-width-source:userset;mso-width-alt:2752;">
+<table width="3072.67" border="0" cellpadding="0" cellspacing="0" style="width:1843.60pt;border-collapse:collapse;table-layout:fixed;text-align:center;">
+   <colgroup><col width="402.17" class="xl65" style="mso-width-source:userset;mso-width-alt:10970;text-align:center;">
+   <col width="482.17" class="xl66" style="mso-width-source:userset;mso-width-alt:10970;text-align:center;">
+   <col width="1045" class="xl65" style="mso-width-source:userset;mso-width-alt:23775;text-align:center;">
+   <col width="258.50" class="xl65" style="mso-width-source:userset;mso-width-alt:5881;text-align:center;">
+   <col width="551.83" class="xl65" style="mso-width-source:userset;mso-width-alt:12555;text-align:center;">
+   <col width="253" class="xl65" style="mso-width-source:userset;mso-width-alt:5756;text-align:center;">
+   <col width="201" span="16378" class="xl67" style="mso-width-source:userset;mso-width-alt:2752;text-align:center;">
    </colgroup><tbody><tr height="61" style="height:36.60pt;">
     <td class="xl68" height="61" width="482.17" style="height:36.60pt;width:289.30pt;" x:str="">期数</td>
     <td class="xl69" width="482.17" style="width:289.30pt;" x:str="">时间</td>
