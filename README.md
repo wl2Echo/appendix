@@ -3,7 +3,11 @@
 
 注：因报纸件损坏、失真等原因而导致的无法识别的字体本表统一用“\*”表示
 <div style="text-align: center;">
-	<table width="3072.67" border="0" cellpadding="0" cellspacing="0" style="width:1843.60pt;border-collapse:collapse;table-layout:fixed;">
+	<table width="3072.67" border="0" cellpadding="0" cellspacing="0" style="width:1843.60pt;border-collapse:collapse;table-layout:fixed;text-align: center;">
+       <tr>
+           <td style="text-align: center;">
+           </td>
+       </tr>
 	   <colgroup><col width="482.17" class="xl65" style="mso-width-source:userset;mso-width-alt:10970;">
 	   <col width="482.17" class="xl66" style="mso-width-source:userset;mso-width-alt:10970;">
 	   <col width="1045" class="xl65" style="mso-width-source:userset;mso-width-alt:23775;">
